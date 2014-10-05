@@ -3,9 +3,8 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>org.springframework</groupId>
-	<artifactId>gs-rest-service</artifactId>
-	<version>0.1.0</version>
+	<groupId>org.smiles</groupId>
+	<version>0.0.7</version>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
@@ -83,4 +82,5 @@
 			<url>http://repo.spring.io/libs-release</url>
 		</pluginRepository>
 	</pluginRepositories>
+	<artifactId>MPushServices</artifactId>
 </project>
