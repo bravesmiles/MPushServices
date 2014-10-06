@@ -3,7 +3,7 @@ MPushServices
 
 Message Push Service for mobile phone. 
 
-Usage:
+Import:
 1. git clone https://github.com/bravesmiles/MPushServices.git
 2. Eclipse import as existing maven project
 3. com.smiles.messaging.Application run as java application
@@ -14,5 +14,8 @@ Maven and run:
 2. put beanx.xml into target
 3. cd target
 4. java -jar java -jar MPushServices-VERSION.jar (VERSION is configured in pom.xml)
+
+Usage:
+1. localhost:8080/notifyAll?content=CONTENT (CONTENT is the content send to all client  via JPush)
 
 
