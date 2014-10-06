@@ -18,4 +18,7 @@ Maven and run:
 Usage:
 1. localhost:8080/notifyAll?content=CONTENT (CONTENT is the content send to all client  via JPush)
 
+Client:
+Mobile phone that install JPush client with appKey: 946343519c3023fbfb39cf18
+
 
